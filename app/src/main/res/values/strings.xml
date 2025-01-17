@@ -3,4 +3,11 @@
     <string name="alert_dialog">Alert Dialog</string>
     <string name="timepickerdialog">TimePickerDialog</string>
     <string name="datepickerdialog">DatePickerDialog</string>
+    <string name="do_you_want_to_logout">Do you want to Logout</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="logout_dialog">Logout Dialog</string>
+    <string name="logout_dialog1">Logout Dialog1</string>
+    <string name="logout_dialog2">logoutDialog2\n</string>
+    <string name="logout_dialog3">logout_Dialog3\n</string>
 </resources>
