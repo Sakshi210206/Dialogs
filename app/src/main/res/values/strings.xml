@@ -10,4 +10,5 @@
     <string name="logout_dialog1">Logout Dialog1</string>
     <string name="logout_dialog2">logoutDialog2\n</string>
     <string name="logout_dialog3">logout_Dialog3\n</string>
+    <string name="logoutdialog">LogoutDialog</string>
 </resources>

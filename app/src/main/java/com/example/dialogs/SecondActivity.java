@@ -61,7 +61,7 @@ public class SecondActivity extends AppCompatActivity {
         });
     }
 
-    private class MyLogoutDialogClicklistener implements LogoutDialog.OnLogoutDialogClickListener {
+     class MyLogoutDialogClicklistener implements LogoutDialog.OnLogoutDialogClickListener {
         @Override
         public void onSuccess() {
             Toast.makeText(SecondActivity.this,"on Success",Toast.LENGTH_LONG).show();

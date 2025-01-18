@@ -5,25 +5,27 @@
     android:orientation="vertical">
 
     <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
         android:id="@+id/btnLogoutDialog1"
+        style="@style/my_custom_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:text="@string/logout_dialog1"
-        android:textSize="30sp"
-        style="@style/my_custom_style"/>
+        android:textSize="30sp" />
+
     <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
         android:id="@+id/btnLogoutDialog2"
-        android:text="@string/logout_dialog2"
-        android:textSize="30sp"
-        style="@style/my_custom_style"/>
-    <Button
+        style="@style/my_custom_style"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:text="@string/logout_dialog2"
+        android:textSize="30sp" />
+
+    <Button
         android:id="@+id/btnLogoutDialog3"
+        style="@style/my_custom_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:text="@string/logout_dialog3"
-        android:textSize="30sp"
-        style="@style/my_custom_style"/>
+        android:textSize="30sp" />
 
 </LinearLayout>
